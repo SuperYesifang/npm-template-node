@@ -1,6 +1,6 @@
 {
     "name": "npm-template-node",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "这是一个可用于发布npm包的node开发工作空间模板。This is a node development workspace template that can be used to publish npm packages.",
     "author": "Yesifang",
     "license": "MIT",
